@@ -1,0 +1,40 @@
+html,body{
+
+background: #cea9f0;
+
+}
+
+
+div.header{
+width:100%;
+margin-left: auto;
+margin-right: auto;
+position: fixed;
+
+}
+
+
+
+div.navbar{
+width:500px;
+height:40px;
+margin:40px auto 0px auto;	
+
+}
+
+
+
+
+div.navbar ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+
+div.navbar ul li{
+
+    margin:0;
+    padding:0;
+    float: left;
+    text-align: center;
+    }
