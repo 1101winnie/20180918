@@ -1,0 +1,67 @@
+html,body{
+
+background: #cea9f0;
+
+}
+
+
+div.header{
+width:100%;
+margin-left: auto;
+margin-right: auto;
+position: fixed;
+
+}
+
+.logo{
+margin-right:20px;
+margin-left:150;
+float: left;
+
+
+
+}
+
+
+div.navbar{
+width:500px;
+height:40px;
+margin:20px auto 200px auto;	
+font-size:16px;
+text-align: center;
+}
+
+
+
+
+div.navbar ul{
+    margin:40;
+    padding:0;
+    float:left;
+    list-style-type:none;
+    position: absolute;
+   
+    
+}
+
+
+div.navbar ul li{
+    width:120px;
+    height:30px;
+    margin:0;
+    padding:0;
+    float: left;
+    text-align:center;
+    position:relative;
+
+    }
+
+
+ div.content img{
+    margin:550px;
+    margin-top: 90px;
+  
+
+
+
+ }   
