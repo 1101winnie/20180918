@@ -1,0 +1,198 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+
+html,body{
+background:white;
+
+}
+
+div.container{
+    width:1000px;
+    
+
+}
+
+div.content{
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+   
+
+}
+
+div.header{
+    width:1000px;
+    height:60px;
+    text-align: center;
+    background:white;
+    margin-left:auto;
+    margin-right:auto;
+    line-height: 35px;
+   
+}
+
+div.header ul{
+    float:left;
+    list-style-type:none;
+    
+}
+
+div.header li{
+    width:120px;
+    margin:0;
+    padding:0;
+    float: left;
+    text-align:center;
+    position:relative;
+    color:black;
+
+}
+
+.logo{
+    float: left;
+
+}
+
+div.pic{
+    width:1000px;
+    height:150px;
+
+}
+
+.pic img{
+    width:250px;
+    height:130px;
+    float: left;
+    display: inline;
+
+}
+
+div.clothes img{
+    width:70px;
+    height:70px;
+
+
+}
+
+h2{
+    width:1000px;
+    height:30px;
+    float:left;
+    text-align: justify;
+
+}
+
+div.clothes h3{
+    display:inline;
+    font-size:18px;
+    padding:20px;
+
+}
+
+div.news{
+    display: inline;
+    float:left;
+    font-size:6px;
+    
+    }
+    
+div.news img{
+    width:100px;
+    height:130px;
+    margin-right:60px;
+    
+    }
+
+div.news h3{
+    text-align: left;
+
+    }
+
+div.shop{
+    overflow: hidden; 
+    display: inline;
+    float:left;
+       
+    }
+    
+div.shop img{
+    width:300px;
+    height:160px;
+    float:left;
+    margin: 10px;
+    overflow: hidden; 
+    display: inline;
+    }
+    
+div.movie{
+   
+    display: inline;
+    float: left;
+    overflow: hidden; 
+
+    
+    }
+    
+div.movie img{
+    width:300px;
+    height:200px;
+    display:inline;
+    float: left;
+    padding:10px;
+  
+}
+
+ div.movie h5{
+    position: absolute
+    text-align:left;
+    line-height: 10px;
+    z-index: 2;
+  
+}
+        
+div.map h2{
+    display: inline;
+    text-align: justify;  
+    color:black;
+    
+        
+}
+
+
+div.footer{
+
+background: #000;
+float:left;
+color:white;
+line-height: 60px;
+width:100%;
+height:300px;
+bottom:300px;
+margin-left:auto;
+margin-right: auto;
+
+
+
+}
+
+
+div.footer ul{
+
+margin-left:5%;
+margin-right:5%;
+top:50px;
+line-height: 50px;
+
+
+
+}
+
+div.footer li{
+display: inline;
+font-size:14px;
+padding: 10px;
+text-align:center;
+
+
+}
